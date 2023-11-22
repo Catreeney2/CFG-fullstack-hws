@@ -1,0 +1,38 @@
+body{
+    background-color:dodgerblue;
+    font-family: monospace;
+    font-size:larger;
+}
+
+
+h1{
+    color:rgb(240, 204, 113);
+    font-family: monospace;
+    text-align: center;
+}
+
+
+#center {
+    width: 00px; 
+    margin: auto; 
+   
+  }
+
+
+
+  #submit {
+      text-align: center;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
